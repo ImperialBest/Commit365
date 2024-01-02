@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    margin-top: 20%;
+    padding-top: 20px;
+}
+.link-container{
+    margin: 0 auto;
+    /* width: 50%;
+    height: 50%; */
+    padding: 10px;
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+.sign{
+    width:80px;
+    height: 30px;
+    background-color: aquamarine;
+    border-radius: 3px;
+    border: 1px solid black;
+    margin: auto;
+    padding-top: 10px;
+}
