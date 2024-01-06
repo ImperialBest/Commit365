@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(100, 237, 100);
+}
+#therow {
+    color: burlywood;
+    display: table;
+    padding: 15px;
+    background-color: black;
+    border: solid 5px burlywood;
+  }
+.row {
+    display: table-row;
+  }
+  .row label {
+    display: table-cell;
+    padding: 2px;
+    text-align: right;
+  }
+  .row input {
+    display: table-cell;
+    padding: 2px;
+    text-align: left;
+  }
